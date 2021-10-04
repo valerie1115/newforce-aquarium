@@ -1,0 +1,11 @@
+.pageHeader { 
+    text-align: center;
+}
+.shop {border: 1px black dashed;
+    flex-basis: 30em;
+}
+.list {display: flex;
+flex-flow: row wrap;
+justify-content: space-evenly;
+}
+
